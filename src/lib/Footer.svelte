@@ -1,7 +1,7 @@
 <div class="footer">
 	<div class="inner">
-		<div class="copyright desktop">&copy; 2023 Landstown High School Deep Sea Tactics</div>
-		<div class="copyright mobile">&copy; 2023</div>
+		<div class="copyright desktop">&copy; 2024 Landstown High School Deep Sea Tactics</div>
+		<div class="copyright mobile">&copy; 2024</div>
 
 		<div class="links">
 			<a href="https://www.instagram.com/ltowndst/" target="_blank" rel="noreferrer">
